@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="36px" viewBox="0 0 49 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>export/assets/title_02_b</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.1718,35.9549 C19.5028,34.7799 15.1548,27.5919 6.9308,24.0489 C6.9098,24.0399 6.8878,24.0509 6.8868,24.0719 C6.8778,24.7139 6.6448,32.5179 0.9718,32.5179 L6.8878,32.5179 C15.6728,32.5179 19.3968,35.3519 20.1258,35.9919 C20.1508,36.0149 20.1888,35.9849 20.1718,35.9549" id="path-1"></path>
+        <filter x="-7.8%" y="-12.5%" width="115.6%" height="125.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M20.1718,0.0926 C19.5028,1.2686 15.1548,8.4556 6.9308,11.9986 C6.9098,12.0076 6.8878,11.9976 6.8868,11.9766 C6.8778,11.3336 6.6448,3.5306 0.9718,3.5306 L6.8878,3.5306 C15.6728,3.5306 19.3968,0.6966 20.1258,0.0566 C20.1508,0.0326 20.1888,0.0636 20.1718,0.0926" id="path-3"></path>
+        <filter x="-7.8%" y="-12.5%" width="115.6%" height="125.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M26.748,4.3113 C26.155,5.3983 21.938,12.5873 12.755,15.1103 C12.73,15.1173 12.732,15.1503 12.758,15.1463 C14.731,14.8093 22.418,13.8153 25.653,18.0483 C25.659,18.0563 25.659,18.0673 25.652,18.0753 C25.425,18.3053 21.89,21.6803 12.412,19.3783 C12.39,19.3733 12.373,19.3993 12.392,19.4113 C13.559,20.1243 24.292,26.7843 26.788,31.8823 C26.797,31.9013 26.823,31.8963 26.823,31.8743 C26.827,31.1893 26.667,26.0543 21.074,22.4603 C21.06,22.4513 21.059,22.4293 21.075,22.4253 C21.635,22.3023 27.851,20.9773 28.622,18.0613 C28.622,18.0613 28.412,15.0983 21.598,13.4443 C21.58,13.4403 21.573,13.4183 21.588,13.4103 C21.981,13.1763 25.203,11.0843 26.786,4.3293 C26.791,4.3063 26.76,4.2903 26.748,4.3113" id="path-5"></path>
+        <filter x="-9.2%" y="-5.4%" width="118.5%" height="110.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M30.165,18.0975 C29.522,14.6605 23.992,12.9175 23.992,12.9175 C25.664,11.3745 29.394,7.5165 37.367,9.1885 C47.503,11.3135 47.913,18.0975 47.913,18.0975 C47.913,18.0975 47.503,24.8815 37.367,27.0075 C29.394,28.6795 25.664,24.8215 23.992,23.2775 C23.992,23.2775 29.522,21.5355 30.165,18.0975" id="path-7"></path>
+        <filter x="-6.3%" y="-8.0%" width="112.5%" height="116.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="export/assets/title_02_b">
+            <g id="Group" transform="translate(0.631579, 0.000000)">
+                <g id="Fill-9">
+                    <use fill="#B99253" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <g id="Fill-15">
+                    <use fill="#B99253" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Fill-17">
+                    <use fill="#B99253" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Fill-19">
+                    <use fill="#B99253" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
